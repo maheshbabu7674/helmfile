@@ -1,7 +1,7 @@
 ---
 repositories:
   - name: helloworld
-    url: git+https://github.com/rahulwagh/helmchart@helloworld?ref=master&sparse=0
+    url: git+https://github.com/maheshbabu7674/helmchart@helloworld?ref=master&sparse=0
 
 releases:
 
